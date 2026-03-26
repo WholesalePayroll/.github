@@ -1,7 +1,6 @@
-# Special public profile readme repository
+# Public GitHub Organization Repository
 
-Read the documentation: [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+> [!IMPORTANT]
+> WholesalePayroll/.github is a ✨special✨ repository that you can use to add a README.md to your organization publically visible profile.
 
-> Add a /profile/README.md to the .github repository. The README will appear on your organization's profile, visible to anyone.
-
-> WholesalePayroll/.github is a special repository. Create a profile/README.md and it will appear on the organization's profile.
+_Read GitHub's Organization documentation: [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)_
